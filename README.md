@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zohaib</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" alt="Zohaib coding animation">
-</p>
-  
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
 
 # 💫 About Me:
 I'm a recent graduate from McMaster University, currently diving into the world of web development.<br>My journey has been anything but linear, starting in civil engineering, pivoting to electrical engineering, and eventually discovering a passion for programming.<br><br>Throughout three internships at Molex and AMD, I worked primarily in DevOps, gaining hands-on experience with Jenkins, Kubernetes, Docker, and GitHub App development. These roles taught me the value of automation, CI/CD, and scalable infrastructure.<br><br>Since then, I've shifted my focus toward full-stack development. I've built and deployed projects using Spring Boot and React, hosting them on platforms like AWS, Vercel, and Netlify.<br><br>My varied path has made me adaptable and eager to learn.<br><br>I am now taking the Full Stack Open course to learn the MERN stack and further deepen my understanding of web development.
